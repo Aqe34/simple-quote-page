@@ -1,0 +1,22 @@
+html,
+body {
+    width: 100%;
+    height: 100vh;
+    background: url('assets/freedom.jpg') no-repeat center;
+    background-size: cover;
+}
+.idezet {
+    font-family: 'Girassol', sans-serif;
+    font-size: 2.5rem; 
+}
+.szerzo {
+    font-family: 'Itim', sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+.szoveg {
+    padding-top: 2.5rem;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
